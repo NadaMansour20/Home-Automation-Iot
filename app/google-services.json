@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "50101527739",
+    "firebase_url": "https://home-automation-ebe72-default-rtdb.firebaseio.com",
+    "project_id": "home-automation-ebe72",
+    "storage_bucket": "home-automation-ebe72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50101527739:android:57c0cd1be803f6b2f6b59e",
+        "android_client_info": {
+          "package_name": "com.android.home_automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh1jB7IWaJwuhvb8dSuOhWBoY1w-UehzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
